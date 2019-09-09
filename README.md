@@ -18,9 +18,10 @@
 It should look something like this: 
 
 1. Name:
-  * Arnon Lieber
-2. 
-  * 
-3. 
+  * <b>Gina Limon</b>
+2. Favorite Podcast:
+  * <i>Berlin Zwanzig</i>
+3. Git url
+  * https://github.com/ginalimon
 
 Once you are done, commit your changes, and push to GitHub. 
